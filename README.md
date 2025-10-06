@@ -11,12 +11,6 @@ This assignment focuses on implementing AI agents using Anthropic's Agent Develo
 ### Codelab 1: From Prototypes to Agents with ADK
 **Resource:** [Google Doc Link](https://share.google/SedY3WmkMRCEkJrrA)
 
-#### Deliverables:
-- [ ] README.md file documenting the implementation
-- [ ] Colab notebook OR desktop application code
-- [ ] Archived code repository
-- [ ] YouTube video walkthrough and execution demo
-
 #### Topics Covered:
 - Introduction to ADK fundamentals
 - Transitioning from prototype to production agent
@@ -28,12 +22,6 @@ This assignment focuses on implementing AI agents using Anthropic's Agent Develo
 ### Codelab 2: Building AI Agents with ADK - Empowering with Tools
 **Resource:** [Google Doc Link](https://share.google/2PaSC2sdeHuNqENjq)
 
-#### Deliverables:
-- [ ] README.md file documenting the implementation
-- [ ] Colab notebook OR desktop application code
-- [ ] Archived code repository
-- [ ] YouTube video walkthrough and execution demo
-
 #### Topics Covered:
 - Tool integration with ADK agents
 - Creating custom tools for agents
@@ -44,12 +32,6 @@ This assignment focuses on implementing AI agents using Anthropic's Agent Develo
 
 ### Codelab 3: Build a Travel Agent using MCP Toolbox
 **Resource:** [Google Doc Link](https://share.google/aTibSpbyEDvVPhIqD)
-
-#### Deliverables:
-- [ ] README.md file documenting the implementation
-- [ ] Colab notebook OR desktop application code
-- [ ] Archived code repository
-- [ ] YouTube video walkthrough and execution demo
 
 #### Topics Covered:
 - Model Context Protocol (MCP) integration
@@ -65,15 +47,6 @@ This assignment focuses on implementing AI agents using Anthropic's Agent Develo
 Select **one agent application** from the Awesome ADK Agents repository and implement it.
 
 **Repository:** [awesome-adk-agents](https://github.com/Sri-Krishna-V/awesome-adk-agents)
-
-#### Deliverables:
-- [ ] Complete agent application implementation
-- [ ] README.md file with setup and usage instructions
-- [ ] Archived code repository
-- [ ] YouTube video demonstrating:
-  - Complete code walkthrough
-  - Application execution
-  - Agent capabilities and features
 
 #### Helpful Resource:
 **Master Class Video:** [ADK Master Class](https://youtu.be/P4VFL9nIaIA?si=-wpIAXKzxfHiM0ZL)
