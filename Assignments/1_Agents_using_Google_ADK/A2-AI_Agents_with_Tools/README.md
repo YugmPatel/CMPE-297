@@ -24,7 +24,7 @@ This project demonstrates how to build, configure, and enhance an AI agent capab
 ## 📹 YouTube Walkthrough
 
 🎥 **Watch the full video tutorial here:**
-*([https://youtu.be/W3IfrEmkvQI”](https://youtu.be/W3IfrEmkvQI))*
+*([https://youtu.be/W3IfrEmkvQI](https://youtu.be/W3IfrEmkvQI))*
 
 In the video, I’ll walk you through:
 
