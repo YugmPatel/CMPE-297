@@ -1,67 +1,97 @@
-# Multi-Agent System using ADK, MCP, and A2A Protocols
+# MCP and A2A Codelab Assignment
 
 ## 📘 Overview
 
-This project is part of the assignment to practice **MCP (Message Communication Protocol)** and **A2A (Agent-to-Agent)** protocols using **Google’s Agent Development Kit (ADK)**.
-The assignment reproduces and demonstrates three official Google Codelabs on building and deploying multi-agent systems.
-
-Each codelab is implemented separately, and all related artifacts (code, configurations, assets, and documentation) are included in their respective directories.
-
-```
-
-Each subdirectory includes:
-
-* Source code and configuration files
-* Build and deployment instructions
-* Video walkthrough demonstrating execution
+This repository contains the implementation and artifacts for three Google codelabs focusing on **ADK (Agent Development Kit)**, **MCP (Message Communication Protocol)**, and **A2A (Agent-to-Agent)** communication.
+The goal is to practice creating, deploying, and interacting with multi-agent systems using the Google Agent Engine and A2A protocol.
 
 ---
 
-## 🧩 Codelabs Implemented
+## 🧩 Codelabs Included
 
-### **Codelab 1 – Create Multi-Agent System with ADK and A2A Protocol**
+### **Codelab 1 – Multi-Agent System with ADK and A2A Protocol**
 
 **Objective:**
+Build and deploy a multi-agent system using the **Agent Development Kit (ADK)** and enable **Agent-to-Agent (A2A)** communication.
 
-* Build a basic multi-agent system using ADK.
-* Deploy agents on the Agent Engine.
-* Enable agent-to-agent communication using A2A protocol.
+**Key Concepts:**
+
+* Multi-Agent System architecture
+* ADK setup and agent registration
+* A2A communication setup in Agent Engine
+
+**Artifacts:**
+
+* Agent configurations
+* Source code and deployment logs
+* Execution screenshots
 
 ---
 
 ### **Codelab 2 – Getting Started with ADK, MCP, and A2A**
 
 **Objective:**
+Learn to use **MCP** (Message Communication Protocol) for agent messaging and implement a basic **Currency Exchange Agent**.
 
-* Learn the basics of ADK setup.
-* Use MCP for message communication between agents.
-* Integrate A2A to simulate interaction between a currency converter agent and a user agent.
+**Key Concepts:**
+
+* Understanding MCP messaging
+* Creating and deploying Currency Agent
+* Integrating ADK and A2A protocols
+
+**Artifacts:**
+
+* CurrencyAgent source files
+* Configuration and logs
+* Execution screenshots
 
 ---
 
 ### **Codelab 3 – Getting Started with A2A Action Engine**
 
 **Objective:**
+Implement a **Purchasing Concierge** using the **A2A Action Engine**, simulating inter-agent task execution and decision-making.
 
-* Understand the A2A Action Engine architecture.
-* Implement and test an agent that performs purchase-related actions via A2A.
-* Demonstrate inter-agent actions and data exchange.
+**Key Concepts:**
+
+* A2A Action Engine fundamentals
+* Action request and response cycles
+* Orchestrating multi-agent interactions
+
+**Artifacts:**
+
+* Source code and action definitions
+* Configuration and test results
+* Execution screenshots
 
 ---
 
-## 🛠️ Technologies Used
+## 🎥 Video Walkthrough
 
-* **Google ADK (Agent Development Kit)**
-* **MCP (Message Communication Protocol)**
-* **A2A (Agent-to-Agent) Protocol**
-* **Node.js / Python** (depending on codelab requirements)
-* **Agent Engine Deployment Environment**
+Each codelab directory contains a link to the recorded walkthrough demonstrating setup, execution, and results.
 
 ---
 
-## 📄 Submission Instructions
+## ⚙️ Setup & Execution
 
-* Upload the entire repository to GitHub.
-* Ensure each codelab has its artifacts and README.
-* Include video walkthroughs in respective directories.
-* Submit the GitHub repository link and video demonstrations as per the assignment requirements.
+### **Prerequisites**
+
+* Python 3.10+
+* Node.js (for agent UI if applicable)
+* Google ADK & A2A SDK installed
+* Access to Agent Engine console
+
+---
+
+## 📄 Deliverables
+
+| Deliverable       | Description                                         |
+| ----------------- | --------------------------------------------------- |
+| GitHub Repository | Source code and artifacts for all 3 codelabs        |
+| Video Walkthrough | Demonstration of execution for each codelab         |
+| Subdirectories    | Organized structure for each lab with documentation |
+
+---
+
+Would you like me to also create **individual `README.md` templates** for each subdirectory (Codelab 1, 2, and 3) — summarizing the specific setup and results for each?
+That would make your submission look more professional and complete.
