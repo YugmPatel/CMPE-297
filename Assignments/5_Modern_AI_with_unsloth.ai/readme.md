@@ -20,15 +20,32 @@ Each use case includes: a runnable Colab notebook, dataset notes, clear inputs/o
 
 ## 📚 References & Hints
 
-• Unsloth Notebooks Hub (Kaggle/Colab): [https://github.com/unslothai/notebooks](https://github.com/unslothai/notebooks)
-• Unsloth Finetuning Guide: [https://docs.unsloth.ai/get-started/fine-tuning-llms-guide](https://docs.unsloth.ai/get-started/fine-tuning-llms-guide)
-• Reinforcement Learning Guide: [https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide)
-• GRPO Reasoning Tutorial: [https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo)
-• Unsloth R1 Reasoning Blog: [https://unsloth.ai/blog/r1-reasoning](https://unsloth.ai/blog/r1-reasoning)
-• Continued Pretraining: [https://docs.unsloth.ai/basics/continued-pretraining](https://docs.unsloth.ai/basics/continued-pretraining)
-• Export to Ollama: [https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama](https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama)
-• Example Kaggle notebook: [https://www.kaggle.com/code/kingabzpro/fine-tuning-llms-using-unsloth](https://www.kaggle.com/code/kingabzpro/fine-tuning-llms-using-unsloth)
-• LoRA with Ollama (templates): [https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0)
+• Unsloth Notebooks Hub (Kaggle/Colab):
+[https://github.com/unslothai/notebooks](https://github.com/unslothai/notebooks)
+
+• Unsloth Finetuning Guide:
+[https://docs.unsloth.ai/get-started/fine-tuning-llms-guide](https://docs.unsloth.ai/get-started/fine-tuning-llms-guide)
+
+• Reinforcement Learning Guide:
+[https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide)
+
+• GRPO Reasoning Tutorial:
+[https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo](https://docs.unsloth.ai/get-started/reinforcement-learning-rl-guide/tutorial-train-your-own-reasoning-model-with-grpo)
+
+• Unsloth R1 Reasoning Blog:
+[https://unsloth.ai/blog/r1-reasoning](https://unsloth.ai/blog/r1-reasoning)
+
+• Continued Pretraining:
+[https://docs.unsloth.ai/basics/continued-pretraining](https://docs.unsloth.ai/basics/continued-pretraining)
+
+• Export to Ollama:
+[https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama](https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama)
+
+• Example Kaggle notebook:
+[https://www.kaggle.com/code/kingabzpro/fine-tuning-llms-using-unsloth](https://www.kaggle.com/code/kingabzpro/fine-tuning-llms-using-unsloth)
+
+• LoRA with Ollama (templates):
+[https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0](https://sarinsuriyakoon.medium.com/unsloth-lora-with-ollama-lightweight-solution-to-full-cycle-llm-development-edadb6d9e0f0)
 
 ---
 
