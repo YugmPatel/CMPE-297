@@ -51,34 +51,62 @@ Each use case includes: a runnable Colab notebook, dataset notes, clear inputs/o
 
 ## 🧪 Use Cases (Colabs)
 
-a) Colab 1 — Full Finetuning (Small Model)
+**a) Colab 1 — Full Finetuning (Small Model)**
+
 • Model: smolLM2 135M (or unsloth/gemma-3-1b-it-unsloth-bnb-4bit) with full_finetuning enabled
+
 • Task: choose coding or chat; demonstrate compatible chat templates
+
 • Deliverables: training run, evaluation samples, inference examples, YouTube walkthrough
 
-b) Colab 2 — LoRA Parameter-Efficient Finetuning
+---
+
+**b) Colab 2 — LoRA Parameter-Efficient Finetuning**
+
 • Same dataset and task as Colab 1, but convert to LoRA
+
 • Compare runtime, GPU memory, and output quality vs. full FT
+
 • Deliverables: hyperparameter notes, side-by-side sample outputs, YouTube walkthrough
 
-c) Colab 3 — Reinforcement Learning with Preferences
+---
+
+**c) Colab 3 — Reinforcement Learning with Preferences**
+
 • Dataset contains input, preferred output, rejected output (pairwise or listwise)
+
 • Show reward signal design and training stability heuristics
+
 • Deliverables: training curves, preference accuracy snapshots, qualitative comparisons, YouTube walkthrough
 
-d) Colab 4 — GRPO Reasoning RL
+---
+
+**d) Colab 4 — GRPO Reasoning RL**
+
 • Use problem-only datasets; model generates answers; optimize via GRPO
+
 • Highlight reasoning traces, token budget, and stop sequences
+
 • Deliverables: sample problems, rationales, reward trajectory, YouTube walkthrough
 
-e) Colab 5 — Continued Pretraining (New Language)
+---
+
+**e) Colab 5 — Continued Pretraining (New Language)**
+
 • Extend base model’s vocabulary/knowledge on a curated corpus for a new language or domain
+
 • Show tokenizer/encoding considerations and eval prompts pre/post CPT
+
 • Deliverables: corpus sourcing and cleaning notes, perplexity or proxy metrics, qualitative outputs, YouTube walkthrough
 
-Optional Enhancements (documented in extras/):
+---
+
+**Optional Enhancements (documented in extras/):**
+
 • Continue fine-tuning from a custom checkpoint
+
 • Mental-health chatbot case study with Phi-3 (ethical guardrails, safe-completion prompts)
+
 • Export finetuned model to Ollama and demonstrate local inference
 
 ---
