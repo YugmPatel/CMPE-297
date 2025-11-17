@@ -14,7 +14,7 @@ It creates a seamless pipeline where an ADK agent can invoke Gemini CLI as an ex
 ## 🎥 Video Walkthrough
 
 📺 Watch the complete setup and demo here:  
-👉 [**Advanced Tool Agent with Gemini CLI – Full Google Cloud Walkthrough**](https://youtu.be/_fNsDxPZWdQ)
+👉 [**Advanced Tool Agent with Gemini CLI**](https://youtu.be/_fNsDxPZWdQ)
 
 **In this video you’ll learn:**
 - How the ADK agent integrates with Gemini CLI  
