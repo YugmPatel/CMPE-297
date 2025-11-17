@@ -40,21 +40,16 @@ The video covers:
    ```bash
    cd agent-a-deep-research
    pip install -r requirements.txt
-````
 
 2. **Set up environment variables**
 
-   ```bash
    export GOOGLE_CLOUD_PROJECT="your-project-id"
    export GOOGLE_GENAI_USE_VERTEXAI="true"
    export GOOGLE_CLOUD_LOCATION="us-central1"
-   ```
 
 3. **Authenticate with Google Cloud**
 
-   ```bash
    gcloud auth application-default login
-   ```
 
 ---
 
@@ -62,15 +57,12 @@ The video covers:
 
 Run the research agent:
 
-```bash
 python research_agent.py
-```
 
 Or use the interactive mode:
 
-```bash
 python research_agent.py --interactive
-```
+
 
 ---
 
