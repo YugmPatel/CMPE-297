@@ -1,4 +1,3 @@
-````markdown
 # Agent A: Deep Research Agent for Lead Generation
 
 Based on: [Build a Deep Research Agent with Google ADK](https://cloud.google.com/blog/products/ai-machine-learning/build-a-deep-research-agent-with-google-adk)
