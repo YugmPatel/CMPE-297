@@ -53,19 +53,6 @@ The video covers:
 
 ---
 
-## 🧩 Usage
-
-Run the research agent:
-
-python research_agent.py
-
-Or use the interactive mode:
-
-python research_agent.py --interactive
-
-
----
-
 ## 📂 Output
 
 The agent generates the following files in the `outputs/` directory:
