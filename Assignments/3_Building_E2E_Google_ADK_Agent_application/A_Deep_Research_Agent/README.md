@@ -52,7 +52,3 @@ The agent generates:
 - `outputs/leads_report.csv` - Structured lead data
 - `outputs/research_summary.json` - Detailed research findings
 - `outputs/agent_log.txt` - Execution trace
-
-## Demo Script
-
-See `demo_script.md` for the video walkthrough guide.
