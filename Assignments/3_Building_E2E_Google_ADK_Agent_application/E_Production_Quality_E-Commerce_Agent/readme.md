@@ -287,4 +287,4 @@ curl -X POST \
 
 A full demo video walkthrough of this project is available on YouTube:
 
-> **[Sports Shop Agent AI Assistant – Complete Google Cloud Walkthrough](#)** (https://youtu.be/qY5JN7VQNbk)
+> **[Sports Shop Agent AI Assistant](https://youtu.be/qY5JN7VQNbk)** (https://youtu.be/qY5JN7VQNbk)
