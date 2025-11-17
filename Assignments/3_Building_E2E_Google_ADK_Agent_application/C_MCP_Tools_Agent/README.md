@@ -14,7 +14,7 @@ It can scan source code, identify potential issues, suggest fixes, and even gene
 ## 🎥 Video Walkthrough
 
 📺 Watch the full step-by-step walkthrough of this project on YouTube:  
-👉 [**MCP Bug Assistant – From Zero to Assistant with Google ADK**](https://youtu.be/4bjq91TVp-s)
+👉 [**MCP Bug Assistant**](https://youtu.be/4bjq91TVp-s)
 
 **What you'll learn in the video:**
 - How MCP tools power contextual debugging  
