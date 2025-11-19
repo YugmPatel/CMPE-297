@@ -6,7 +6,7 @@ Each use case includes: a runnable Colab notebook, dataset notes, clear inputs/o
 ---
 
 🎥 **Watch the full YouTube walkthrough here:**  
-👉 [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+👉 [https://youtu.be/scK4dMpPsCg](https://youtu.be/scK4dMpPsCg)
 
 ---
 
