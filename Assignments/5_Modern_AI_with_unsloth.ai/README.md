@@ -5,6 +5,11 @@ Each use case includes: a runnable Colab notebook, dataset notes, clear inputs/o
 
 ---
 
+🎥 **Watch the full YouTube walkthrough here:**  
+👉 [https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+---
+
 ## 🎯 Goals
 
 1. Show end-to-end workflows in Unsloth.ai for:
