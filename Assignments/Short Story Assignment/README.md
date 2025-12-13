@@ -25,7 +25,7 @@ This repository contains my analysis and presentation of the comprehensive surve
 ### Published Content
 - **Medium Article:** [Medium Article](https://medium.com/@yugmmaneshkumar.patel/foundation-models-for-time-series-the-transformer-revolution-in-temporal-data-analysis-06fcad99bd97)
 - **SlideShare Presentation:** [Slides](https://arxiv.org/abs/2504.04011)
-- **YouTube Video:** [Youtube Video](Link)
+- **YouTube Video:** [Youtube Video](https://youtu.be/WM42Lu7oRTs)
 
 ### Original Survey Paper
 - **arXiv:** https://arxiv.org/abs/2504.04011
